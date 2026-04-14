@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encapsulation.md",
+                "file": "OOPs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Encapsulation"
+              "title": "OOPs"
             }
           },
           {
@@ -215,9 +215,9 @@
   },
   "active": "159866320ad711f9",
   "lastOpenFiles": [
+    "Encapsulation.md",
     "OOPs.md",
     "DotNet Ques.md",
-    "Encapsulation.md",
     "Abstraction.md",
     "APIs.md",
     "Untitled 1.md",
