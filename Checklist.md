@@ -1,0 +1,11 @@
+- Formal training or certification on software engineering concepts and 2+ years applied experience
+- Strong proficiency in C# and ASP.NET Core (Web API, middleware, dependency injection)
+- Hands-on experience with Angular (components, services, RxJS, routing) and JavaScript
+- Solid understanding of Object-Oriented Programming and SOLID principles. Practical knowledge of RESTful API design, JSON, and HTTP fundamentals
+- Version control with Git and experience with code reviews and branching strategies. Familiarity with CI/CD workflows and build tools (e.g., Azure DevOps, Jenkins)
+- Experience writing automated tests and working in an Agile/Scrum environment
+- Front-end testing (Jest, Jasmine/Karma), end-to-end testing (Cypress, Playwright). Strong debugging skills and ability to profile and optimize performance
+- Hands-on practical experience in system design, application development, testing, and operational stability
+- Experience in developing, debugging, and maintaining code in a large corporate environment
+- Experience across the whole Software Development Life Cycle. Exposure to agile methodologies such as CI/CD, Application Resiliency, and Security
+- Emerging knowledge of software applications and technical processes within a technical discipline (e.g., cloud, artificial intelligence, machine learning, mobile, etc.)
