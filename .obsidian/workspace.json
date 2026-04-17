@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Checklist.md",
+                "file": "Companies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Checklist"
+              "title": "Companies"
             }
           }
         ],
@@ -243,8 +243,8 @@
   },
   "active": "3c4c973a30ab747b",
   "lastOpenFiles": [
-    "Companies.md",
     "Checklist.md",
+    "Companies.md",
     "Atomic.md",
     "Untitled 2.md",
     "OOPs.md",
