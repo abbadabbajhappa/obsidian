@@ -38,7 +38,7 @@ Reusing code from parent class.
 
 --- ASP.NET Core ---
 
-11. What is Middleware?
+11. What is [[Middleware]]?
 Pipeline components handling request/response.
 
 12. What is Dependency Injection?
