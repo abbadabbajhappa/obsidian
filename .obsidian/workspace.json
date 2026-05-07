@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DotNet Ques.md",
+                "file": "OOPs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DotNet Ques"
+              "title": "OOPs"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,7 +213,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eedd00e3b95943c2",
+  "active": "380cd0a40d4f2c64",
   "lastOpenFiles": [
     "DotNet Ques.md",
     "Middleware.md",
