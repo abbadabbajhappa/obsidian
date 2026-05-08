@@ -92,7 +92,7 @@ Database schema updates.
 
 --- Advanced Concepts ---
 
-26. SOLID Principles?
+26. [[SOLID]] Principles?
 Five design principles for clean code.
 
 27. Repository Pattern?
