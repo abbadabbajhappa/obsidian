@@ -1,0 +1,1 @@
+design patterns: https://refactoring.guru/design-patterns/csharp?utm_source=chatgpt.com

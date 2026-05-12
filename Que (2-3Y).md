@@ -7,6 +7,7 @@
     - `abstract class`
     - `interface`
 3. What is dependency injection in .NET?
+		Dependency Injection is a design pattern in which dependencies are provided to a class from external sources rather than created inside the class. In .NET, DI is commonly implemented using the built-in IoC container with constructor injection.
 4. Explain:
     - `async`
     - `await`
