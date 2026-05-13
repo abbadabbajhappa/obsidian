@@ -1,4 +1,4 @@
-# Core C# Questions
+	# Core C# Questions
 
 1. What is the difference between `class` and `struct`?
 		A class is a reference type with reference semantics and heap allocation behavior, while a struct is a value type copied by value and typically stored inline. Structs are best for small immutable data; classes are better for complex shared objects.
