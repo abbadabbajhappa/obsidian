@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure.md",
+                "file": "DotNet Ques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Azure"
+              "title": "DotNet Ques"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure.md",
+                "file": "DotNet Ques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Azure"
+              "title": "Backlinks for DotNet Ques"
             }
           },
           {
@@ -200,8 +200,8 @@
   },
   "active": "329bb8df0db57b75",
   "lastOpenFiles": [
-    "DotNet Ques.md",
     "Azure.md",
+    "DotNet Ques.md",
     "Que (2-3Y).md",
     "Sources.md",
     "Abstraction.md",
