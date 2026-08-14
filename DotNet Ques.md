@@ -40,18 +40,34 @@ Reusing code from parent class.
 
 11. What is [[Middleware]]?
 Pipeline components handling request/response.
+can simply pass a response to next piece of middleware or do some processing and later pass
+can also short circuit the request
+are executed in the order they are added
 
 12. What is Dependency Injection?
 Injecting dependencies instead of creating manually.
 
+- helps build systems which are loosely coupled which makes it easy to unit test
+
 13. Service Lifetimes?
-Scoped, Singleton, Transient
+Scoped - a new instance is created once per request within the scope
+Singleton - created one time instance per application and used throughout the application lifetime
+Transient - a new instance of service is created each time it is requested 
+
+What is Controller?
+Handles incoming HTTP request
+Builds the model and returns model data to caller 
 
 14. What is Routing?
 Maps URL to controller/action.
 
+what is model?
+model is set of classes that represent data and logic to manage that data
+
 15. What is Model Binding?
 Maps request data to model.
+
+**what is top-level statements?
 
 --- Web API ---
 
