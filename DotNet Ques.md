@@ -19,7 +19,6 @@ Common Type System defines data types.
 Common Language Specification ensures language interoperability.
 
 --- C# Concepts ---
-
 6. [[OOPs]] Principles?
 [[Encapsulation]], Inheritance, Polymorphism, [[Abstraction]]
 
