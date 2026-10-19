@@ -1,6 +1,7 @@
 concepts of OOPS -> Objects, Classes, 4 pillars mentioned below
 
-OOPS - Object oriented programming -> so a way to create software around objects
+OOPS - Object oriented programming -> so a way to create software around objects.
+classes are usually used to define those objects
 
 advantages - provide a clean and clear structure for application
 
