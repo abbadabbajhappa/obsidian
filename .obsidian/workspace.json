@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encapsulation.md",
+                "file": "DotNet Ques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Encapsulation"
+              "title": "DotNet Ques"
             }
           }
         ],
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encapsulation.md",
+                "file": "DotNet Ques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encapsulation.md",
+                "file": "DotNet Ques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encapsulation.md",
+                "file": "DotNet Ques.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -204,16 +204,16 @@
   },
   "active": "329bb8df0db57b75",
   "lastOpenFiles": [
-    "OOPs.md",
-    "DotNet Ques.md",
     "Que (2-3Y).md",
+    "DotNet Ques.md",
+    "Encapsulation.md",
+    "OOPs.md",
     "Azure.md",
     "Sources.md",
     "Abstraction.md",
     "SOLID.md",
     "Middleware.md",
     "APIs.md",
-    "Encapsulation.md",
     "Atomic.md",
     "Checklist.md",
     "Companies.md",
